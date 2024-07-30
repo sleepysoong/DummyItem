@@ -1,0 +1,10 @@
+name: DummyItems
+author: naeng
+main: naeng\DummyItems\DummyItems
+version: 1.0.0
+api: 5.0.0
+depend:
+  - Customies
+softdepend:
+  - DEVirion
+load: STARTUP
